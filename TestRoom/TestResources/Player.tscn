@@ -1,8 +1,7 @@
-[gd_scene load_steps=5 format=2]
+[gd_scene load_steps=4 format=2]
 
 [ext_resource path="res://Scripts/Player.gd" type="Script" id=1]
 [ext_resource path="res://TestRoom/TestResources/whitesquare.png" type="Texture" id=2]
-[ext_resource path="res://TestRoom/TestResources/debugfont.tres" type="DynamicFont" id=3]
 
 [sub_resource type="RectangleShape2D" id=1]
 extents = Vector2( 32, 32.3774 )
@@ -22,10 +21,10 @@ shape = SubResource( 1 )
 
 [node name="StateLabel" type="Label" parent="."]
 margin_left = -32.0
-margin_top = -64.0
+margin_top = -112.0
 margin_right = 32.0
-margin_bottom = -36.0
-custom_fonts/font = ExtResource( 3 )
+margin_bottom = -84.0
+rect_scale = Vector2( 2, 2 )
 valign = 1
 __meta__ = {
 "_edit_use_anchors_": false
