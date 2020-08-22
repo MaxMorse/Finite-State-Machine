@@ -2,7 +2,7 @@
 
 ![alt text](https://raw.githubusercontent.com/MaxMorse/Finite-State-Machine/master/fsm_cover.png "Finite State Machine screenshot")
 
-A playable demo of my Finite State Machine character controller for Godot.  All code necessary for the machine to function is in the scripts folder.  A TestRoom has been included as well to show the machine's functionality.  Note the above screenshot is from the playable demo on my itch.io page.  The test room included in this repo is bare bones "programmer art"  
+A finite state machine character controller for Godot.  All code necessary for the machine to function is in the scripts folder.  A TestRoom has been included as well to show the machine's functionality.  Note the above screenshot is from the playable demo on my itch.io page.  The test room included in this repo is bare bones "programmer art"  
 
 #### Credits:
 A valuabe resourse for this project was [Game Endeavor's tutorial series](https://www.youtube.com/playlist?list=PL4QJmtZWf50mGwKVM_Ak8ThmO_PCDchsR).  
