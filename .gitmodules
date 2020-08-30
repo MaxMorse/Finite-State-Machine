@@ -1,0 +1,3 @@
+[submodule "fsm-core"]
+	path = fsm-core
+	url = https://github.com/MaxMorse/FSM-Core.git
